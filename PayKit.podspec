@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name            = "PayKit"
-  spec.version         = "1.0.2"
+  spec.version         = "1.0.5"
   spec.summary         = "PayKit é framework destinado a Merci e seus parceiros."
   spec.swift_versions  = ['5.2']
 
@@ -29,9 +29,9 @@ Pod::Spec.new do |spec|
   ]
 
   spec.frameworks  = 'UIKit', 'MapKit'
-  spec.dependency 'Alamofire', '~> 4.8.2'
+  spec.dependency 'Alamofire', '~> 4.9.1'
   spec.dependency 'Kingfisher'
   spec.dependency 'AlamofireNetworkActivityIndicator', '~> 2.4.0'
-  spec.dependency 'KeychainAccess', '~> 3.2.0'
+  spec.dependency 'KeychainAccess', '~> 4.2.0'
   spec.dependency 'TPKeyboardAvoiding', '~> 1.3'
 end
