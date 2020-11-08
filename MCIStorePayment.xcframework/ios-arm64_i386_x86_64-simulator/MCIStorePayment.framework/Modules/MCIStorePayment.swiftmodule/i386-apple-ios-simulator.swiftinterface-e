@@ -1,0 +1,69 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)
+// swift-module-flags: -target i386-apple-ios9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MCIStorePayment
+import AVFoundation
+import Alamofire
+import Foundation
+import Kingfisher
+import MCIAuth
+import MCIAuthCore
+import MCICheckoutCore
+import MCIFoundation
+import MCIIssuerViewerCore
+import MCIKit
+import MCILogger
+@_exported import MCIStorePayment
+import MCIStorePaymentCore
+import Swift
+import UIKit
+@_hasMissingDesignatedInitializers final public class PayConfig {
+  public static let shared: PayConfig
+  final public var shouldShowOnboarding: Swift.Bool
+  final public var payTextButton: Swift.String?
+  final public var imageBanner: UIKit.UIImage?
+  final public var imageOnboardingFirst: UIKit.UIImage?
+  final public var imageOnboardingSecond: UIKit.UIImage?
+  final public var imageOnboardingThird: UIKit.UIImage?
+  final public var imageStoresEmpty: UIKit.UIImage?
+  final public var imageQr: UIKit.UIImage?
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers final public class PayRootVC : MCIViewController, Identifiable {
+  final public var account: MCIAccount?
+  final public var action: MCIAccountWalletAction?
+  @objc override final public func viewDidLoad()
+  @objc deinit
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+public struct MCIStorePayment : StorePayable {
+  public init()
+  public func present(_ controller: UIKit.UIViewController, transition: UIKit.UIModalTransitionStyle, completion: (() -> Swift.Void)?)
+}
+extension UIStoryboard {
+  public class var pay: UIKit.UIStoryboard {
+    get
+  }
+}
+final public class MCIQRCodePayment : Swift.Codable {
+  final public var amount: Swift.String? {
+    get
+  }
+  final public var createdAt: Foundation.Date? {
+    get
+  }
+  final public var merchantName: Swift.String? {
+    get
+  }
+  final public var transactionId: Swift.String? {
+    get
+  }
+  final public var allowedSources: [MCIAccountType]? {
+    get
+  }
+  final public func encode(to encoder: Swift.Encoder) throws
+  public init(from decoder: Swift.Decoder) throws
+  final public func formattedCreatedAtDate() -> Swift.String?
+  final public func formattedAmount() -> Swift.String?
+  @objc deinit
+}
