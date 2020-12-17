@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		+by5NqjJb/hXpoPg7pZT/5GEau0=
+		dZjp/rsTGkIfaHqsh4vw8QWr3Ec=
 		</data>
 		<key>Headers/MCIStorePayment-Swift.h</key>
 		<data>
-		O9K5h7CwAKIYmuPkq1Sso/qsLhc=
+		lKuwn6lc3ym03Q6DEaMEEoJwVhs=
 		</data>
 		<key>Headers/MCIStorePayment.h</key>
 		<data>
@@ -18,79 +18,79 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		eyV0rhqWR6YpSh7g8Z02ODrdlws=
+		nzMFSndURo2M42XNAIvjcpThAO8=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		cFDLeHROkGfxiU8SK+btshebUho=
+		EQOYqM+wlp91Yh8S8W4xN0WMOWk=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9KjdT6tOeBgWauo9T1IJgqJhIMQ=
+		AsFBASaY173iApJzRgScqNJgq40=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BmplPNz7RUdx4gWN/SMNqNJfus4=
+		zfkiUUf8yX6ZavzOykvHrdfKC0w=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		cFDLeHROkGfxiU8SK+btshebUho=
+		EQOYqM+wlp91Yh8S8W4xN0WMOWk=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		9KjdT6tOeBgWauo9T1IJgqJhIMQ=
+		AsFBASaY173iApJzRgScqNJgq40=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		BmplPNz7RUdx4gWN/SMNqNJfus4=
+		zfkiUUf8yX6ZavzOykvHrdfKC0w=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		DpVmaMh5YbZTKf5gFE/J+Ot5WTI=
+		FFnuDG80JV4OZWPjEKmQ3UygZ6g=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ZK1+m5Y56FKd0RJNi76UK705aqo=
+		LHM1JehePwIO26Ivo+x9fIIDPF8=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		T1yxrODwXNdraKk46XDeuzD2RiI=
+		iAZJI8EeiqJ+w+z6/l8RyoiAWMI=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/i386.swiftdoc</key>
 		<data>
-		DpVmaMh5YbZTKf5gFE/J+Ot5WTI=
+		FFnuDG80JV4OZWPjEKmQ3UygZ6g=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/i386.swiftinterface</key>
 		<data>
-		ZK1+m5Y56FKd0RJNi76UK705aqo=
+		LHM1JehePwIO26Ivo+x9fIIDPF8=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/i386.swiftmodule</key>
 		<data>
-		T1yxrODwXNdraKk46XDeuzD2RiI=
+		iAZJI8EeiqJ+w+z6/l8RyoiAWMI=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		eVXb45rWW14/a/cT5H5AAls5KG4=
+		dCC0bABeP7a1F/BHSmreYsci/hw=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9cXgdMrKmBai+WJqMeRVS9ggJw4=
+		QJZ4THhecuTAIt0JxEQuq06OvIo=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4AWRw9z4/9jCF2/3ZwHm93yLt9o=
+		74wYY5e5CAGAyA3w0fvgalKlpII=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		eVXb45rWW14/a/cT5H5AAls5KG4=
+		dCC0bABeP7a1F/BHSmreYsci/hw=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		9cXgdMrKmBai+WJqMeRVS9ggJw4=
+		QJZ4THhecuTAIt0JxEQuq06OvIo=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		4AWRw9z4/9jCF2/3ZwHm93yLt9o=
+		74wYY5e5CAGAyA3w0fvgalKlpII=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,195 +98,195 @@
 		</data>
 		<key>Pay.storyboardc/1vB-zO-dOw-view-LjS-X5-9W3.nib/objects-11.0+.nib</key>
 		<data>
-		90RN3mIpXMC79LdHclLgXwgS7Hc=
+		nOGeUCuKxvvTuxrMQ/ZD8rfzRag=
 		</data>
 		<key>Pay.storyboardc/1vB-zO-dOw-view-LjS-X5-9W3.nib/runtime.nib</key>
 		<data>
-		/G5t76AUDlNM17kI6Cd7BNFS0+4=
+		mdkUNFjyXLI4zm4bjB+DjrHMElQ=
 		</data>
 		<key>Pay.storyboardc/5Ve-dU-fhW-view-uiS-Yw-GFR.nib/objects-11.0+.nib</key>
 		<data>
-		sYMoGnrTFnxdRnLrRSSTMESdKOc=
+		6GeNXvG/YVGibR+gj4C5zzvpqPw=
 		</data>
 		<key>Pay.storyboardc/5Ve-dU-fhW-view-uiS-Yw-GFR.nib/runtime.nib</key>
 		<data>
-		U6p6sPujk7Z3PDppGR7qmJO0+hU=
+		4vrNvaAgaHFyLbw6V9Fs9oKAHUM=
 		</data>
 		<key>Pay.storyboardc/DQK-sa-Ire-view-dbL-5c-o2Z.nib/objects-11.0+.nib</key>
 		<data>
-		I1Gl77+tBHMYQhCAhcOByzAuT+U=
+		GGPOnBY3H9jR9TsvAiu8RhrhCEI=
 		</data>
 		<key>Pay.storyboardc/DQK-sa-Ire-view-dbL-5c-o2Z.nib/runtime.nib</key>
 		<data>
-		ZyF+YHJZ243bRVxhHjVxB/saCV8=
+		hYFlGiggbnM967/L743/50M/rHM=
 		</data>
 		<key>Pay.storyboardc/FSr-n5-kfA-view-gcE-kN-sud.nib/objects-11.0+.nib</key>
 		<data>
-		2BY0at6tG62JORZobgIfRnjquDU=
+		XbIFmfvIW/bxZymUZkiTkXz605s=
 		</data>
 		<key>Pay.storyboardc/FSr-n5-kfA-view-gcE-kN-sud.nib/runtime.nib</key>
 		<data>
-		G+fFGfv683pWaY4pffeAsH801+E=
+		MEtyA3Co1YFINvQid+dqfMruhBY=
 		</data>
 		<key>Pay.storyboardc/Fo0-dP-uF0-view-cSf-te-jnT.nib/objects-11.0+.nib</key>
 		<data>
-		+cn9lcKxO/U/F80b9UOzyo0OnI4=
+		dJr+QMC2kwqPMzdFaWOfShYTTYk=
 		</data>
 		<key>Pay.storyboardc/Fo0-dP-uF0-view-cSf-te-jnT.nib/runtime.nib</key>
 		<data>
-		7HPq5LCc4ybS7eNOgItEbSXo0vY=
+		zhzSOvxCA2+VxNFf+BlyirxzFNI=
 		</data>
 		<key>Pay.storyboardc/Info.plist</key>
 		<data>
-		XxXv0agy0kj2vSBkS4/e5fnPKvA=
+		yFS1ohDRTz4MitYLtdX1ulLTPFw=
 		</data>
 		<key>Pay.storyboardc/MQH-GU-xyS-view-n42-db-fec.nib/objects-11.0+.nib</key>
 		<data>
-		GjkkCjuim1fBKEi/2N5hiwz6KG8=
+		ioUE1PAghGtobceu36S4OxfdBZ8=
 		</data>
 		<key>Pay.storyboardc/MQH-GU-xyS-view-n42-db-fec.nib/runtime.nib</key>
 		<data>
-		xU1GInNJL9V8IfNoKmCLJyimwNg=
+		PepZAQe/KGDb5gHfVAv6FHuScvw=
 		</data>
 		<key>Pay.storyboardc/OyC-gP-V1m-view-9Fc-vo-2GH.nib/objects-11.0+.nib</key>
 		<data>
-		XHDT4J2NAfKUnzZEkZQiVyrNNGg=
+		JBy1bO4mz6IwBWPWc1iA+2pSYt0=
 		</data>
 		<key>Pay.storyboardc/OyC-gP-V1m-view-9Fc-vo-2GH.nib/runtime.nib</key>
 		<data>
-		rhPfLhzcCDyZ4xs/5nmWOqKbzhw=
+		GzcB0Ve383qlXn0QDT4pZJrzlEs=
 		</data>
 		<key>Pay.storyboardc/PayCodeNC.nib/objects-11.0+.nib</key>
 		<data>
-		tlKb+rilU42JZPjgM+s6GfSsw9k=
+		rf1J+LKs9TAQo7T1RFcKXTLinEc=
 		</data>
 		<key>Pay.storyboardc/PayCodeNC.nib/runtime.nib</key>
 		<data>
-		t6OEJZmKVqei5x6JyimLimj5wsc=
+		5iGHXXXmdthQyR5qBdl/ZC82+hs=
 		</data>
 		<key>Pay.storyboardc/PayCodeVC.nib/objects-11.0+.nib</key>
 		<data>
-		Mm1RoRBPcoZxWV/PTLOCYhB/Cyw=
+		mnNd42lWBW0V6cfXfLhsi/YHz/M=
 		</data>
 		<key>Pay.storyboardc/PayCodeVC.nib/runtime.nib</key>
 		<data>
-		LvJ6yDH4AV8TMqyurN0nbtyPhWE=
+		iBqCfULU/fknTivxWgkNUi5lNYc=
 		</data>
 		<key>Pay.storyboardc/PayConfirmationVC.nib/objects-11.0+.nib</key>
 		<data>
-		ZFNMHj1ARmTLrm6bdqOCKHSZa8k=
+		xcSN1H4C3DJzqy3V7IeUCQhJ8vY=
 		</data>
 		<key>Pay.storyboardc/PayConfirmationVC.nib/runtime.nib</key>
 		<data>
-		3MhZPDEDDKJLlmghy8eaWn4cS8M=
+		cPVRGSo2tghFXOTC6alCudEQHWk=
 		</data>
 		<key>Pay.storyboardc/PayEmptyVC.nib/objects-11.0+.nib</key>
 		<data>
-		bPdzu/3AccFCYgCDSHoHiZo2tzs=
+		V2gLe2RPXIH7N8KO3Y0JBAke064=
 		</data>
 		<key>Pay.storyboardc/PayEmptyVC.nib/runtime.nib</key>
 		<data>
-		ILG2NtsfUdF3Mu5iZuzeDmaRLtc=
+		B4eArXiLeszs5A3ls50n9igPyn0=
 		</data>
 		<key>Pay.storyboardc/PayOnboardNC.nib/objects-11.0+.nib</key>
 		<data>
-		6yL309vu2j/VTQ8O81WUpsJDIO8=
+		zrLy9MTMOU0TGOb7QhBaxUQ4D40=
 		</data>
 		<key>Pay.storyboardc/PayOnboardNC.nib/runtime.nib</key>
 		<data>
-		2KJ7w7wRO1ZF01Gukn4lKS6odKI=
+		rBhVdZsb6aoParRXkes2LdN223I=
 		</data>
 		<key>Pay.storyboardc/PayOnboardVC.nib/objects-11.0+.nib</key>
 		<data>
-		CYcJ51nnVFK7A+VRmEBTge+Hbls=
+		yV+7HlWxkIoGcwBsMWNakjEA9bk=
 		</data>
 		<key>Pay.storyboardc/PayOnboardVC.nib/runtime.nib</key>
 		<data>
-		wZvWrron7XQIS5zjX7fmsnffaJs=
+		D88mS+o2ZiG6IfFq733kTT2KFaQ=
 		</data>
 		<key>Pay.storyboardc/PayOptionsVC.nib/objects-11.0+.nib</key>
 		<data>
-		oRLYzneKDyNQzBp2hWlcnfJ1ZGo=
+		n0MFpANTOHF80HaPEw0r/L8l9u0=
 		</data>
 		<key>Pay.storyboardc/PayOptionsVC.nib/runtime.nib</key>
 		<data>
-		RkDDeg0QEwbmN6pfBL4YU/hZWtk=
+		lDq/zNkSCHVxzx1J+YO/wHur2Eg=
 		</data>
 		<key>Pay.storyboardc/PayRootVC.nib/objects-11.0+.nib</key>
 		<data>
-		vCFQTBuaq56anHKqudG+XJl5pBA=
+		P/Yall5Ptk3gP5ccjDyg071GgHI=
 		</data>
 		<key>Pay.storyboardc/PayRootVC.nib/runtime.nib</key>
 		<data>
-		3Z38byzLaWXZOZVn4Zkc8cFCbx8=
+		UMRMLTW8OEQOEeEHRqvOnfx+BLc=
 		</data>
 		<key>Pay.storyboardc/PayScanVC.nib/objects-11.0+.nib</key>
 		<data>
-		ESZLi5vGC6pFTAr1ktD4wWd28Lo=
+		8hcxnxII92OLyz2xZNS7tp4eg5c=
 		</data>
 		<key>Pay.storyboardc/PayScanVC.nib/runtime.nib</key>
 		<data>
-		RfmBAoM3zFIRAHD/N/Lai9BLvhY=
+		IhX1h+gM1M53b+fdOhi+6+8XvDM=
 		</data>
 		<key>Pay.storyboardc/PayStoresVC.nib/objects-11.0+.nib</key>
 		<data>
-		9gTaQu5gIA7bZ2FWioFQMvW9dn0=
+		iK/sBaaJlmVUP40nfC03/FWRETc=
 		</data>
 		<key>Pay.storyboardc/PayStoresVC.nib/runtime.nib</key>
 		<data>
-		GhL0B2Z6Zvgg7Ju452k9qY55Ccw=
+		lHkARGiIvQI6aNVTNOQnltyCVK8=
 		</data>
 		<key>Pay.storyboardc/PayTicketVC.nib/objects-11.0+.nib</key>
 		<data>
-		0wyWSbpCSTcNB+gz921GheyMpZU=
+		NM30N79LuQ/W+3Bg2OxAsihvLAA=
 		</data>
 		<key>Pay.storyboardc/PayTicketVC.nib/runtime.nib</key>
 		<data>
-		fWDdFmYv9CUC4B8MSY7j3VhqfEU=
+		vocgq38/ypK0wVth6HwSd2TEVpY=
 		</data>
 		<key>Pay.storyboardc/UINavigationController-gsz-eY-Kih.nib/objects-11.0+.nib</key>
 		<data>
-		h8MvMza/E5tFsJ26QludrRx0BJs=
+		CRPGlV0YL4j7svDxNeKoFF/kjVM=
 		</data>
 		<key>Pay.storyboardc/UINavigationController-gsz-eY-Kih.nib/runtime.nib</key>
 		<data>
-		DvLYPT7SWqKh8LZW05DEYZtFLpg=
+		pYwd8uvokoG/2H2CXMuJlGXw7Zs=
 		</data>
 		<key>Pay.storyboardc/UINavigationController-i4W-NC-17m.nib/objects-11.0+.nib</key>
 		<data>
-		7/6fyUly/NJVaX25Wdnqf5aPBvw=
+		40BtRFgb8nOvaaCqWiHSs1ej0v8=
 		</data>
 		<key>Pay.storyboardc/UINavigationController-i4W-NC-17m.nib/runtime.nib</key>
 		<data>
-		3/I6GcnEiqhSFByMura61UoBa4c=
+		dWM+gRvyfWeaKqbLKqcE+z0zj4I=
 		</data>
 		<key>Pay.storyboardc/kMP-N5-NR1-view-TGf-Tf-hQp.nib/objects-11.0+.nib</key>
 		<data>
-		xgWum/DcI1vp5EBR5nTivlE5O3g=
+		YrLV7YAS1UXKTGOoPWn1TFItpvo=
 		</data>
 		<key>Pay.storyboardc/kMP-N5-NR1-view-TGf-Tf-hQp.nib/runtime.nib</key>
 		<data>
-		jrEYGmNua14y0JJIFzzLxV3oRio=
+		54T5BN51YLvrCUqpvDlq4+xZVSw=
 		</data>
 		<key>Pay.storyboardc/urQ-5C-GFW-view-sOA-t2-LKH.nib/objects-11.0+.nib</key>
 		<data>
-		9xkfmJ7e8YWQVFDDrdosnGm1Ls8=
+		2+wtUA+LBoNOOZ+2MN/jb19+s10=
 		</data>
 		<key>Pay.storyboardc/urQ-5C-GFW-view-sOA-t2-LKH.nib/runtime.nib</key>
 		<data>
-		s28LFd6w31+WTlf7ZiqmrRWVRco=
+		z85lhX9lTkDrZ4my0aCirB7LOnE=
 		</data>
 		<key>PayStoreTableViewCell.nib</key>
 		<data>
-		OXHmzyEG9hl+LMECWjzSPtWen5M=
+		c7hyOF9OwgGDh0QN8iCDfLaS4A4=
 		</data>
 		<key>PayStoresSectionHeaderView.nib/objects-11.0+.nib</key>
 		<data>
-		0mTKR1B0+KokOiASTDc66aZ/Py4=
+		xa8yE8aiGxnbSyef3ujGUljx2XU=
 		</data>
 		<key>PayStoresSectionHeaderView.nib/runtime.nib</key>
 		<data>
-		QuBXvrWx1G6U+XVzL9SNHumiaag=
+		AfclLh4Rh7pqDIri3HlmewAlzqM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -295,22 +295,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+by5NqjJb/hXpoPg7pZT/5GEau0=
+			dZjp/rsTGkIfaHqsh4vw8QWr3Ec=
 			</data>
 			<key>hash2</key>
 			<data>
-			f1Y66op9J29UNDVq015P+J2rfVEm2hGgOCymPTt6fnQ=
+			ny2EjqwtpRHaZGXH6n7Lt+CyZqYre3lDKmqiJDQKZGU=
 			</data>
 		</dict>
 		<key>Headers/MCIStorePayment-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			O9K5h7CwAKIYmuPkq1Sso/qsLhc=
+			lKuwn6lc3ym03Q6DEaMEEoJwVhs=
 			</data>
 			<key>hash2</key>
 			<data>
-			V9HTSIjiAezWngFx02JRWt/pCoMil75fbYemu/FV/WY=
+			B8jlJ5EttL2X/YM4Q6I/Tw+1Ya6pdbu9cVAJsf/xalo=
 			</data>
 		</dict>
 		<key>Headers/MCIStorePayment.h</key>
@@ -328,198 +328,198 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cFDLeHROkGfxiU8SK+btshebUho=
+			EQOYqM+wlp91Yh8S8W4xN0WMOWk=
 			</data>
 			<key>hash2</key>
 			<data>
-			H75IhVU9HaW1/T8wArLnz7wQ6zG2fBzuHpRS+Y59Otg=
+			sV1kPgU9qnacVYlvsx3q85366c6jzkpT3Eso7FnmNK4=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9KjdT6tOeBgWauo9T1IJgqJhIMQ=
+			AsFBASaY173iApJzRgScqNJgq40=
 			</data>
 			<key>hash2</key>
 			<data>
-			yGRfW+vSC54kRed2MNcOJO8kQ7cr/nhVcyFOljfZIR4=
+			Kieg0dPcg503RSITkQhLpmwEdRP+DpCQZlYUZqXlir0=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BmplPNz7RUdx4gWN/SMNqNJfus4=
+			zfkiUUf8yX6ZavzOykvHrdfKC0w=
 			</data>
 			<key>hash2</key>
 			<data>
-			l2PaSQeI5xKr7N69VyKTAofuLxSDoJo6RpnkGwXzxB0=
+			sWHYgfvYS+ioOj80l2+ps34U4qp8VyDwlvLy7CwtnR4=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cFDLeHROkGfxiU8SK+btshebUho=
+			EQOYqM+wlp91Yh8S8W4xN0WMOWk=
 			</data>
 			<key>hash2</key>
 			<data>
-			H75IhVU9HaW1/T8wArLnz7wQ6zG2fBzuHpRS+Y59Otg=
+			sV1kPgU9qnacVYlvsx3q85366c6jzkpT3Eso7FnmNK4=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9KjdT6tOeBgWauo9T1IJgqJhIMQ=
+			AsFBASaY173iApJzRgScqNJgq40=
 			</data>
 			<key>hash2</key>
 			<data>
-			yGRfW+vSC54kRed2MNcOJO8kQ7cr/nhVcyFOljfZIR4=
+			Kieg0dPcg503RSITkQhLpmwEdRP+DpCQZlYUZqXlir0=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BmplPNz7RUdx4gWN/SMNqNJfus4=
+			zfkiUUf8yX6ZavzOykvHrdfKC0w=
 			</data>
 			<key>hash2</key>
 			<data>
-			l2PaSQeI5xKr7N69VyKTAofuLxSDoJo6RpnkGwXzxB0=
+			sWHYgfvYS+ioOj80l2+ps34U4qp8VyDwlvLy7CwtnR4=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DpVmaMh5YbZTKf5gFE/J+Ot5WTI=
+			FFnuDG80JV4OZWPjEKmQ3UygZ6g=
 			</data>
 			<key>hash2</key>
 			<data>
-			PRC16QIVFUEQ3tvkZ0dXLA/VdHwxp4S/Icd/yEMmklU=
+			KKxCgEwc5XKyKKBKO+vf9TDok/Ssq5dd5ZT4MRfbn5o=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZK1+m5Y56FKd0RJNi76UK705aqo=
+			LHM1JehePwIO26Ivo+x9fIIDPF8=
 			</data>
 			<key>hash2</key>
 			<data>
-			BJaWMFOgPcX+S4sWJNN/jpz2b0KsCRtqFKsdXp+vLh4=
+			ZNbE5o1qze6q5tpLc2pqMt83bmYXQebescDeF4ViKAI=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T1yxrODwXNdraKk46XDeuzD2RiI=
+			iAZJI8EeiqJ+w+z6/l8RyoiAWMI=
 			</data>
 			<key>hash2</key>
 			<data>
-			jUr9ED0buIvBSRgkM6s4s+2GvHo7SN1UHSMQvh8ZXi4=
+			b95Hw4tRfZhK6w3hBqx1lVyb0dxvkO5QBbejbCWdxts=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DpVmaMh5YbZTKf5gFE/J+Ot5WTI=
+			FFnuDG80JV4OZWPjEKmQ3UygZ6g=
 			</data>
 			<key>hash2</key>
 			<data>
-			PRC16QIVFUEQ3tvkZ0dXLA/VdHwxp4S/Icd/yEMmklU=
+			KKxCgEwc5XKyKKBKO+vf9TDok/Ssq5dd5ZT4MRfbn5o=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/i386.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZK1+m5Y56FKd0RJNi76UK705aqo=
+			LHM1JehePwIO26Ivo+x9fIIDPF8=
 			</data>
 			<key>hash2</key>
 			<data>
-			BJaWMFOgPcX+S4sWJNN/jpz2b0KsCRtqFKsdXp+vLh4=
+			ZNbE5o1qze6q5tpLc2pqMt83bmYXQebescDeF4ViKAI=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T1yxrODwXNdraKk46XDeuzD2RiI=
+			iAZJI8EeiqJ+w+z6/l8RyoiAWMI=
 			</data>
 			<key>hash2</key>
 			<data>
-			jUr9ED0buIvBSRgkM6s4s+2GvHo7SN1UHSMQvh8ZXi4=
+			b95Hw4tRfZhK6w3hBqx1lVyb0dxvkO5QBbejbCWdxts=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eVXb45rWW14/a/cT5H5AAls5KG4=
+			dCC0bABeP7a1F/BHSmreYsci/hw=
 			</data>
 			<key>hash2</key>
 			<data>
-			SIsDFoZMQvTv8Wz4Qt/SBfJKQEOuXjPwlD5rr0GRc3E=
+			vP9KVhQwv1cNRsp0DY8otwyEtMKR96E3Cxyk6b6qJBU=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9cXgdMrKmBai+WJqMeRVS9ggJw4=
+			QJZ4THhecuTAIt0JxEQuq06OvIo=
 			</data>
 			<key>hash2</key>
 			<data>
-			srdATUMsGW3d8Qvsi9QLYBytyRXHmQyDvjhBf40p77U=
+			iW1A6RGUm+9wXTQAZqNE4cj9RyHW3PC1rlEpVsXM+Q0=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4AWRw9z4/9jCF2/3ZwHm93yLt9o=
+			74wYY5e5CAGAyA3w0fvgalKlpII=
 			</data>
 			<key>hash2</key>
 			<data>
-			3mrCfbEKLx3/VjEvjKYe+q0K8ZsjWemcbwb8l0fxWo0=
+			TZbrk0t6xzYVeK3bv01lgkERbvdyujohUI6XvEKwBGU=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eVXb45rWW14/a/cT5H5AAls5KG4=
+			dCC0bABeP7a1F/BHSmreYsci/hw=
 			</data>
 			<key>hash2</key>
 			<data>
-			SIsDFoZMQvTv8Wz4Qt/SBfJKQEOuXjPwlD5rr0GRc3E=
+			vP9KVhQwv1cNRsp0DY8otwyEtMKR96E3Cxyk6b6qJBU=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9cXgdMrKmBai+WJqMeRVS9ggJw4=
+			QJZ4THhecuTAIt0JxEQuq06OvIo=
 			</data>
 			<key>hash2</key>
 			<data>
-			srdATUMsGW3d8Qvsi9QLYBytyRXHmQyDvjhBf40p77U=
+			iW1A6RGUm+9wXTQAZqNE4cj9RyHW3PC1rlEpVsXM+Q0=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4AWRw9z4/9jCF2/3ZwHm93yLt9o=
+			74wYY5e5CAGAyA3w0fvgalKlpII=
 			</data>
 			<key>hash2</key>
 			<data>
-			3mrCfbEKLx3/VjEvjKYe+q0K8ZsjWemcbwb8l0fxWo0=
+			TZbrk0t6xzYVeK3bv01lgkERbvdyujohUI6XvEKwBGU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -537,528 +537,528 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			90RN3mIpXMC79LdHclLgXwgS7Hc=
+			nOGeUCuKxvvTuxrMQ/ZD8rfzRag=
 			</data>
 			<key>hash2</key>
 			<data>
-			KQuTkKTN4esywvbrjcFm8Qpb/xwGVRW1UBvyqpcYsq4=
+			6UshwoYeelMas7lWCLaJRONtaRnMy7lExG0AAAUaxQQ=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/1vB-zO-dOw-view-LjS-X5-9W3.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/G5t76AUDlNM17kI6Cd7BNFS0+4=
+			mdkUNFjyXLI4zm4bjB+DjrHMElQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			pFx5HF77RkjMM7xp6EWgLQnGzisFNWF5GEeyMXi7R80=
+			rj9Ol0pIDSR1Kdr2A2nQYArgAdtRFDaEWwTnAAtcaoU=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/5Ve-dU-fhW-view-uiS-Yw-GFR.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sYMoGnrTFnxdRnLrRSSTMESdKOc=
+			6GeNXvG/YVGibR+gj4C5zzvpqPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			+Zq018vTCmxtuDiRCLSgqp9Z3TMVRht/aRbG+CMzt6M=
+			JBZkrbq0QOOoIAbNRDNHu+FViKWs/y7uNWyie+6yLQk=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/5Ve-dU-fhW-view-uiS-Yw-GFR.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			U6p6sPujk7Z3PDppGR7qmJO0+hU=
+			4vrNvaAgaHFyLbw6V9Fs9oKAHUM=
 			</data>
 			<key>hash2</key>
 			<data>
-			IxX79H0JwmmDtWab5vNve/YyY9vWnDxDTuLZdfy2oJI=
+			kY6ckyJsgZZ5V3FEXJH93kY8FDdylCd+upSHchGPID4=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/DQK-sa-Ire-view-dbL-5c-o2Z.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I1Gl77+tBHMYQhCAhcOByzAuT+U=
+			GGPOnBY3H9jR9TsvAiu8RhrhCEI=
 			</data>
 			<key>hash2</key>
 			<data>
-			ekTvywbWx1jwTcOERaGHBiquu4AUQoGbxuJt3Gp2XeI=
+			urwxd3S6hNobQLGJdCZbtNwFv5pKk5um+ibESplWQG0=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/DQK-sa-Ire-view-dbL-5c-o2Z.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZyF+YHJZ243bRVxhHjVxB/saCV8=
+			hYFlGiggbnM967/L743/50M/rHM=
 			</data>
 			<key>hash2</key>
 			<data>
-			D3R6MTNS/GRYx1YXEyinGzCG/DxQsY+o0dR1pR1+GbM=
+			2H2FkZ7rkVW34Yf8NuhhVOYSiTeCnJwsABV+hUWoIbI=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/FSr-n5-kfA-view-gcE-kN-sud.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2BY0at6tG62JORZobgIfRnjquDU=
+			XbIFmfvIW/bxZymUZkiTkXz605s=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gb1R5m0PYuVSTwhwRKILp/uqxavH1lY31LV/D13HD4c=
+			Lny+o2Q6jxam8brjbldBi0xHI0I5MqEVmO7vCFOp7N8=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/FSr-n5-kfA-view-gcE-kN-sud.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G+fFGfv683pWaY4pffeAsH801+E=
+			MEtyA3Co1YFINvQid+dqfMruhBY=
 			</data>
 			<key>hash2</key>
 			<data>
-			VXb24fXWmiHcikHrNbMO3P70YsoXGFbqu/2NfUvwUoA=
+			fjtaKWeErDRpAwnhJOqZBuzjA6dHO4VXE1kFSM6oMpo=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/Fo0-dP-uF0-view-cSf-te-jnT.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+cn9lcKxO/U/F80b9UOzyo0OnI4=
+			dJr+QMC2kwqPMzdFaWOfShYTTYk=
 			</data>
 			<key>hash2</key>
 			<data>
-			qgUhq8jdNEDUoziEfsOcX84eHpI0ZO0EcRgPnD6uPQA=
+			8dvQCRE0YjJpu4fkFEJ5HhduqMznSyYHwKDgF4A98Ek=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/Fo0-dP-uF0-view-cSf-te-jnT.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7HPq5LCc4ybS7eNOgItEbSXo0vY=
+			zhzSOvxCA2+VxNFf+BlyirxzFNI=
 			</data>
 			<key>hash2</key>
 			<data>
-			yTIYWDpInskb+t9bdvwWV2RazlaMOvN8T6i44uvanxg=
+			yjRhaLtCO3j4bBSaIcIdwzlhn9Rt5PbMzQeGy2DXevY=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XxXv0agy0kj2vSBkS4/e5fnPKvA=
+			yFS1ohDRTz4MitYLtdX1ulLTPFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			NF2RDXZNeRYm7nVK0ttRM7OVIgNj/9LNRIKivkXPeGs=
+			ccshl13fYIluqrY1iHNCeurdJ4wwk4bUI6GLbwnHb1s=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/MQH-GU-xyS-view-n42-db-fec.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GjkkCjuim1fBKEi/2N5hiwz6KG8=
+			ioUE1PAghGtobceu36S4OxfdBZ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			F5AGAVnWxdha9VenBAkO5niS9OkZkPdU+FrZQrojNRs=
+			Hn+EsCZxrkoHDUlKYsS/ANUB3Zjzsw4BR3KZok+I9o8=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/MQH-GU-xyS-view-n42-db-fec.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xU1GInNJL9V8IfNoKmCLJyimwNg=
+			PepZAQe/KGDb5gHfVAv6FHuScvw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zw5HNtAzphjB8SilVclJNDeiQS4WSEiiknIfmx+tJFs=
+			A9K7kpvnJXOxpgt1VpPySOPpohpAVoGFojmCuV1S8kI=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/OyC-gP-V1m-view-9Fc-vo-2GH.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XHDT4J2NAfKUnzZEkZQiVyrNNGg=
+			JBy1bO4mz6IwBWPWc1iA+2pSYt0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ffaaBXSawmSkXXGuiveAgKR2fqILZpLs9pGw5GrCf3A=
+			CkIoDvBCeQt/mNuEQFWhYQNPLu9dDWGosYcNFTJ+72U=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/OyC-gP-V1m-view-9Fc-vo-2GH.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rhPfLhzcCDyZ4xs/5nmWOqKbzhw=
+			GzcB0Ve383qlXn0QDT4pZJrzlEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			pUjI36V+ykZdee3Z+WTpxDiKTHzxysNpYW9L1/Fm3og=
+			nokFiJg3hNmmoloW+PuWMZxWcW3BvkJAOoRbP32xV9M=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayCodeNC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tlKb+rilU42JZPjgM+s6GfSsw9k=
+			rf1J+LKs9TAQo7T1RFcKXTLinEc=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZoDARafGhHbnospIJ81f1Y5giyggd6HZZhKvVVmmc4k=
+			u969Kyhwz7glNBZdfxQgUdBrKyx0jx3H+GYHUB+zATc=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayCodeNC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			t6OEJZmKVqei5x6JyimLimj5wsc=
+			5iGHXXXmdthQyR5qBdl/ZC82+hs=
 			</data>
 			<key>hash2</key>
 			<data>
-			sUY0Ngd/3IlY6zC9cliJBw2VRCeByGpy0Rqhd7TM+Dg=
+			hU0yPiOYwIFPCfIN1/dOAotc3302IorXxGIoBbIHDoM=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayCodeVC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Mm1RoRBPcoZxWV/PTLOCYhB/Cyw=
+			mnNd42lWBW0V6cfXfLhsi/YHz/M=
 			</data>
 			<key>hash2</key>
 			<data>
-			e77D9IppaqhF5qSy7aAwugT2jvGtkiimJX8OLYynkv8=
+			wpc89Bc4Lrif7VjouAojau1i6pOKBDsgRrkVKIgstOQ=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayCodeVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LvJ6yDH4AV8TMqyurN0nbtyPhWE=
+			iBqCfULU/fknTivxWgkNUi5lNYc=
 			</data>
 			<key>hash2</key>
 			<data>
-			7bLJfEa5ThXhSBrW9Snp9nG6/Wx/rQnfw0rp5Gndx6Q=
+			aUYJCz/T2K+yNl4mAtPs3ygAr5tI6C3Jt/hJ/klSJoE=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayConfirmationVC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZFNMHj1ARmTLrm6bdqOCKHSZa8k=
+			xcSN1H4C3DJzqy3V7IeUCQhJ8vY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gv9CJgqBBmIZwVQ0vDwO5nNbcfiEd5v4XP6C9kLXMLk=
+			bLIRxFw/eL5WoBTT4jMl17AyHqzPt/IN2Z4glM/PyxY=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayConfirmationVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3MhZPDEDDKJLlmghy8eaWn4cS8M=
+			cPVRGSo2tghFXOTC6alCudEQHWk=
 			</data>
 			<key>hash2</key>
 			<data>
-			vieCq1n41UzJvjY8PxekHydcZq3MEYC8CK9fH7ylF9E=
+			gtCnbpC37s5OhS1YCItSk5qi59Z/FbGmab1cOfpx3ao=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayEmptyVC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bPdzu/3AccFCYgCDSHoHiZo2tzs=
+			V2gLe2RPXIH7N8KO3Y0JBAke064=
 			</data>
 			<key>hash2</key>
 			<data>
-			gJkPe/SGBBVNkCPfZZ+aOjj3VsWEXEHf8aImqk0H9Eg=
+			zS5177Tf7Tx3mQ6aEpdWOErFYr2FDZ/Fuz2BWwnwAR4=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayEmptyVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ILG2NtsfUdF3Mu5iZuzeDmaRLtc=
+			B4eArXiLeszs5A3ls50n9igPyn0=
 			</data>
 			<key>hash2</key>
 			<data>
-			TQhSYJ6zgtKNqwiWlnm0WnKCbTGu1aglifXd3EJsKcY=
+			T1IU3XZ/5ONdbyzEZoWHNX4p1DxBqNBm8ZL8evaDNzc=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayOnboardNC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6yL309vu2j/VTQ8O81WUpsJDIO8=
+			zrLy9MTMOU0TGOb7QhBaxUQ4D40=
 			</data>
 			<key>hash2</key>
 			<data>
-			M5hxN08wspNz5xHtCwI5OpVGnbuqi3NZQB7IaQMa5wg=
+			bI1RUZ5gwNAViGBI6+3HVuMltZEECAHeydYJX+d5/YY=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayOnboardNC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2KJ7w7wRO1ZF01Gukn4lKS6odKI=
+			rBhVdZsb6aoParRXkes2LdN223I=
 			</data>
 			<key>hash2</key>
 			<data>
-			8m0Wb02UiP1YT6/VCKaL5Uwc09JKGW7zgIQboESkO/0=
+			OBlu710AEhnqLzvQ2yyvDCvK2Bis9iWteytAwW6G73c=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayOnboardVC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CYcJ51nnVFK7A+VRmEBTge+Hbls=
+			yV+7HlWxkIoGcwBsMWNakjEA9bk=
 			</data>
 			<key>hash2</key>
 			<data>
-			qG8zzXjKM1qX4/2d5UGY04nYzv/draQykb4qLptRFhQ=
+			/b/11+ngdVHsd3aHVRvRR+HSLW9Yi8lvH78iWhPG/Mo=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayOnboardVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wZvWrron7XQIS5zjX7fmsnffaJs=
+			D88mS+o2ZiG6IfFq733kTT2KFaQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			zH+ZRIe4jvN3L1jBbnmVnOCi/K+UirQFWOzO4tAvX30=
+			vLGyLxAhKjon1z3q1RyaiZZ064q7MMFQmQoAa+dj8+A=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayOptionsVC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oRLYzneKDyNQzBp2hWlcnfJ1ZGo=
+			n0MFpANTOHF80HaPEw0r/L8l9u0=
 			</data>
 			<key>hash2</key>
 			<data>
-			bDPjz3APYgeoO+Q5N05bOK7hUORFvJIwoq/24I0LnRk=
+			aa/a7e56UZHLg0UKmLZpVCT9yRbFigat7x88ELRuyFo=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayOptionsVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RkDDeg0QEwbmN6pfBL4YU/hZWtk=
+			lDq/zNkSCHVxzx1J+YO/wHur2Eg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ihtAU2poNUZSejLvgaGm11Ti8BjM6LuWujyyCbU7EUM=
+			70hkVzuTpFdnURYDSIYm7UqL85ymsHSnI/dHyd3+P/E=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayRootVC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vCFQTBuaq56anHKqudG+XJl5pBA=
+			P/Yall5Ptk3gP5ccjDyg071GgHI=
 			</data>
 			<key>hash2</key>
 			<data>
-			6AuQCInYy8xYZBqP5vF6YN9j+YAKHU93ir5rZ/LK7Wk=
+			pOHKOrXlWTaZZW8c20b4F3JS2iGzTJNuP/H72+RWcik=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayRootVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3Z38byzLaWXZOZVn4Zkc8cFCbx8=
+			UMRMLTW8OEQOEeEHRqvOnfx+BLc=
 			</data>
 			<key>hash2</key>
 			<data>
-			7Y58jhtxSK/IMjbEzHUAyfla1lhx6Ubd1PxVW3V7Z50=
+			fmvdiJTzOws8KHYTt8d9Z+IyjPi2EAzqEGwCFeouxFo=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayScanVC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ESZLi5vGC6pFTAr1ktD4wWd28Lo=
+			8hcxnxII92OLyz2xZNS7tp4eg5c=
 			</data>
 			<key>hash2</key>
 			<data>
-			Mkyv5buARzHG3J2NssbvcP+aLz/wKbcIGT99jGgo+No=
+			CrsVdOvZbQZlZPhocefWkoQOL1809gAjXz72A1HCz8o=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayScanVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RfmBAoM3zFIRAHD/N/Lai9BLvhY=
+			IhX1h+gM1M53b+fdOhi+6+8XvDM=
 			</data>
 			<key>hash2</key>
 			<data>
-			8Zo/yxGLA96WJWNT0jxcsiyPSoY1tx01YjcfzXjGwVY=
+			wvXr9olvX/75uxQlk9cKFo/EtSdzkbPpXaGRK+LEGGE=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayStoresVC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9gTaQu5gIA7bZ2FWioFQMvW9dn0=
+			iK/sBaaJlmVUP40nfC03/FWRETc=
 			</data>
 			<key>hash2</key>
 			<data>
-			f9q8n/OJ/S8eXIInwh8hfCbaKM4ZcckYMPDLA3GAnnU=
+			J6ShE2eNzOb1eBoZIhH3Km/f7zNcK6xaHjBD4eVjGLg=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayStoresVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GhL0B2Z6Zvgg7Ju452k9qY55Ccw=
+			lHkARGiIvQI6aNVTNOQnltyCVK8=
 			</data>
 			<key>hash2</key>
 			<data>
-			AM10RxXh4uBs/pY8dhy6r4R0aIz1I7fltNVJB4/JuQ8=
+			ZMZbVvqaYpuHGZYPEJpz+mLjKUB74WyTEOpFoClpyno=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayTicketVC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0wyWSbpCSTcNB+gz921GheyMpZU=
+			NM30N79LuQ/W+3Bg2OxAsihvLAA=
 			</data>
 			<key>hash2</key>
 			<data>
-			P0UbdGJfneaSURQTlxHK1H6JP9Y/SYCyK9MVCoLlnrE=
+			OkDTEzWLWLCE52CPNjedD0SedaWP2HaDjG6s8ZRHYj0=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/PayTicketVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fWDdFmYv9CUC4B8MSY7j3VhqfEU=
+			vocgq38/ypK0wVth6HwSd2TEVpY=
 			</data>
 			<key>hash2</key>
 			<data>
-			49s1kLh9om3wLJcHwin1nduBZX/GPlKdeNYguYStUoE=
+			9XfadgX9g1P0gglwWkMPxWgZVFOwJ+xl9Y7qo1WAuNI=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/UINavigationController-gsz-eY-Kih.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h8MvMza/E5tFsJ26QludrRx0BJs=
+			CRPGlV0YL4j7svDxNeKoFF/kjVM=
 			</data>
 			<key>hash2</key>
 			<data>
-			WNL05nLSIAKDV44hFCOENiMcR6PGo3iuSxRLnDpXuAI=
+			EJ5bHSKCv4OqQtyBpcxTqXgTxX1RrUjFFcEn01WvN0c=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/UINavigationController-gsz-eY-Kih.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DvLYPT7SWqKh8LZW05DEYZtFLpg=
+			pYwd8uvokoG/2H2CXMuJlGXw7Zs=
 			</data>
 			<key>hash2</key>
 			<data>
-			SuMZAjyDSkjb5wccXuSjWTzN4gd80gSoTqvpVu+CmPk=
+			S1nlPkl1fJx6TEbfkyS15RxKzHT0Yk3uqh9CRktbnJg=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/UINavigationController-i4W-NC-17m.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7/6fyUly/NJVaX25Wdnqf5aPBvw=
+			40BtRFgb8nOvaaCqWiHSs1ej0v8=
 			</data>
 			<key>hash2</key>
 			<data>
-			+NvZNdq3dDHP+6UhczBqul6G6Rm50df31dEXrmtT7m8=
+			ZV2aqJphhG1+7oEHkgoKO0MvKHgQcJD/VH5OWw8Ed6A=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/UINavigationController-i4W-NC-17m.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3/I6GcnEiqhSFByMura61UoBa4c=
+			dWM+gRvyfWeaKqbLKqcE+z0zj4I=
 			</data>
 			<key>hash2</key>
 			<data>
-			6OI/0xRUTXxmpPrMChL8S/1v00i3DJVakNbU2UqdXSs=
+			u/OWwjfYzquWzGSMYm3RdTaqFoQB6UCaGvPH/x2DFmM=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/kMP-N5-NR1-view-TGf-Tf-hQp.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xgWum/DcI1vp5EBR5nTivlE5O3g=
+			YrLV7YAS1UXKTGOoPWn1TFItpvo=
 			</data>
 			<key>hash2</key>
 			<data>
-			0/ZHdT+9DvP3ofq7YG1W0Cq6HDvqfhhhp4fOmI4E4K0=
+			OPFZ6gitVgTuHlddhbsWFE6oSva5qEViBqYOOOTyyOU=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/kMP-N5-NR1-view-TGf-Tf-hQp.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jrEYGmNua14y0JJIFzzLxV3oRio=
+			54T5BN51YLvrCUqpvDlq4+xZVSw=
 			</data>
 			<key>hash2</key>
 			<data>
-			phFq610yblM9r3GcpzpDQqhUvhBVRr5FeYv97ujlz+s=
+			rb2u0kQR11E7cluwZi9cBqpI+UpDRzslTLCb8A+2BnU=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/urQ-5C-GFW-view-sOA-t2-LKH.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9xkfmJ7e8YWQVFDDrdosnGm1Ls8=
+			2+wtUA+LBoNOOZ+2MN/jb19+s10=
 			</data>
 			<key>hash2</key>
 			<data>
-			qeowuToHPDuZRgKiW16dmmm2M8yQ1X6nI7PV4SEYbFA=
+			866IltXZb8+ZcRSra0EkMbLXOQeL0a2V8PKftDWympo=
 			</data>
 		</dict>
 		<key>Pay.storyboardc/urQ-5C-GFW-view-sOA-t2-LKH.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			s28LFd6w31+WTlf7ZiqmrRWVRco=
+			z85lhX9lTkDrZ4my0aCirB7LOnE=
 			</data>
 			<key>hash2</key>
 			<data>
-			OHRu2jw3xICtnGRPhuCusrJcNounCPIBoDAmrnIUW+g=
+			fH8V6joN8DHxbuAWG6m5ogqt8B/cihYecx+rWTPcBRQ=
 			</data>
 		</dict>
 		<key>PayStoreTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OXHmzyEG9hl+LMECWjzSPtWen5M=
+			c7hyOF9OwgGDh0QN8iCDfLaS4A4=
 			</data>
 			<key>hash2</key>
 			<data>
-			KDrgzaeUXIZ0ukHcnex0sE2AISFJh2f45xTRYE0HevU=
+			hXu4eSPI5c/C7ykna6sHoUhqnjfryMldEalehjRHuAw=
 			</data>
 		</dict>
 		<key>PayStoresSectionHeaderView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0mTKR1B0+KokOiASTDc66aZ/Py4=
+			xa8yE8aiGxnbSyef3ujGUljx2XU=
 			</data>
 			<key>hash2</key>
 			<data>
-			C5WYytiNZDz+gi8wmrYtb1u94o3KhJLtedDIMQBFhog=
+			WjhvC+qfr8Ey6F5aaKLfvwRNaUDBf3v52Ew9TMAcSMY=
 			</data>
 		</dict>
 		<key>PayStoresSectionHeaderView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QuBXvrWx1G6U+XVzL9SNHumiaag=
+			AfclLh4Rh7pqDIri3HlmewAlzqM=
 			</data>
 			<key>hash2</key>
 			<data>
-			zrEf0LpGVPI5X/ahmDRm1SN0iksSGr0fhEQxnN4dj8c=
+			rGsgdBD8v0K+Sau3o2oZ0H1GaZmtLBynvpG/D/6SML8=
 			</data>
 		</dict>
 	</dict>
