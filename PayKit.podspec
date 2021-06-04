@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name            = "PayKit"
-  spec.version         = "1.9.0"
+  spec.version         = "1.9.2"
   spec.summary         = "PayKit é framework destinado a Merci e seus parceiros."
   spec.swift_versions  = ['5.3']
 
@@ -20,7 +20,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = 'https://github.com/merci-app/paykit-podspec'
   spec.license      = { :type => 'MIT', :file => 'LICENSE' }
   spec.authors      = { 'Denis Oliveira' => 'denis @ merci dot app' }
-  spec.source       = { :git => 'https://github.com/merci-app/paykit-podspec.git', :tag => '1.9.0' }
+  spec.source       = { :git => 'https://github.com/merci-app/paykit-podspec.git', :tag => '1.9.2' }
  
   spec.ios.deployment_target = '10.0'
   spec.vendored_frameworks   = [

@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+// swift-compiler-version: Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)
 // swift-module-flags: -target i386-apple-ios10.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MCIStorePayment
 import AVFoundation
 import Alamofire
@@ -24,8 +24,18 @@ import UIKit
   final public var imageOnboardingSecond: UIKit.UIImage?
   final public var imageOnboardingThird: UIKit.UIImage?
   final public var imageStoresEmpty: UIKit.UIImage?
+  final public var imageAvailableAccounts: UIKit.UIImage?
   final public var imageQr: UIKit.UIImage?
   @objc deinit
+}
+public enum PayAlertConfig : Swift.String {
+  case pixDisabled
+  case confirmPix
+  public typealias RawValue = Swift.String
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
+    get
+  }
 }
 @objc @_inheritsConvenienceInitializers final public class PayRootVC : MCIViewController, Identifiable {
   final public var account: MCIAccount?
@@ -44,6 +54,16 @@ extension UIStoryboard {
     get
   }
 }
+public enum QRCodePaymentType : Swift.String, Swift.Codable {
+  case acquirer
+  case pix
+  case unknown
+  public typealias RawValue = Swift.String
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
+    get
+  }
+}
 final public class MCIQRCodePayment : Swift.Codable {
   final public var amount: Swift.String? {
     get
@@ -57,6 +77,9 @@ final public class MCIQRCodePayment : Swift.Codable {
   final public var transactionId: Swift.String? {
     get
   }
+  final public var type: QRCodePaymentType {
+    get
+  }
   final public var allowedSources: [MCIAccountType]? {
     get
   }
@@ -66,3 +89,40 @@ final public class MCIQRCodePayment : Swift.Codable {
   final public func formattedAmount() -> Swift.String?
   @objc deinit
 }
+public protocol PayAccountCollectionTableCellDelegate : AnyObject {
+  func accountCollectionTableCell(_ cell: PayAccountCollectionTableCell, didSelectAccount account: MCIAccount)
+}
+@objc @_inheritsConvenienceInitializers final public class PayAccountCollectionTableCell : UIKit.UITableViewCell, Identifiable, NibReusable {
+  weak final public var delegate: PayAccountCollectionTableCellDelegate?
+  @objc override final public func awakeFromNib()
+  @objc override final public func systemLayoutSizeFitting(_ targetSize: CoreGraphics.CGSize, withHorizontalFittingPriority horizontalFittingPriority: UIKit.UILayoutPriority, verticalFittingPriority: UIKit.UILayoutPriority) -> CoreGraphics.CGSize
+  final public func configure(with accounts: [MCIAccount]?)
+  @objc deinit
+  @available(iOS 3.0, *)
+  @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+extension PayAccountCollectionTableCell : UIKit.UICollectionViewDataSource {
+  @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, numberOfItemsInSection section: Swift.Int) -> Swift.Int
+  @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, cellForItemAt indexPath: Foundation.IndexPath) -> UIKit.UICollectionViewCell
+}
+extension PayAccountCollectionTableCell : UIKit.UICollectionViewDelegateFlowLayout {
+  @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, didSelectItemAt indexPath: Foundation.IndexPath)
+  @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, sizeForItemAt indexPath: Foundation.IndexPath) -> CoreGraphics.CGSize
+  @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, insetForSectionAt section: Swift.Int) -> UIKit.UIEdgeInsets
+  @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, minimumLineSpacingForSectionAt section: Swift.Int) -> CoreGraphics.CGFloat
+  @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, minimumInteritemSpacingForSectionAt section: Swift.Int) -> CoreGraphics.CGFloat
+}
+@objc @_inheritsConvenienceInitializers final public class PayAccountBannerTableCell : UIKit.UITableViewCell, Identifiable, NibReusable {
+  final public func configure(with image: UIKit.UIImage?)
+  @objc deinit
+  @available(iOS 3.0, *)
+  @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+extension PayAlertConfig : Swift.Equatable {}
+extension PayAlertConfig : Swift.Hashable {}
+extension PayAlertConfig : Swift.RawRepresentable {}
+extension QRCodePaymentType : Swift.Equatable {}
+extension QRCodePaymentType : Swift.Hashable {}
+extension QRCodePaymentType : Swift.RawRepresentable {}
