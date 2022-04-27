@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		7JiQmcG75Z99vLC6gBEUE/cGfK4=
+		pEL851tAmrJ6WvHotOH7CWfFLYU=
 		</data>
 		<key>DigitalAccountCollectionCell.nib/objects-12.3+.nib</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/MCIStorePayment-Swift.h</key>
 		<data>
-		szc9wwhqQe1OJ4afeq1+JMX39KA=
+		Z9c76V+e36VyV/qwQVeSy0OB38M=
 		</data>
 		<key>Headers/MCIStorePayment.h</key>
 		<data>
@@ -26,79 +26,43 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XW2xji4ninY+/s+B8Nrw7QWKVoU=
+		bv0GB54g4XDsbIuxd2lNhwtpeRo=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		c9L9J2dOo+02cew1tREg4zIOUPE=
+		QuqR+WBaIG9Ct4rhaoynMuRNtpU=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		fGUUr9mCNE/7Zb3PkgdRSK9l10M=
+		Ve4HV/enPwPKhnfpT8Zu/RKDvTo=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		o30bm7kVVv3K7wIhsfrI1Zjm288=
-		</data>
-		<key>Modules/MCIStorePayment.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		c9L9J2dOo+02cew1tREg4zIOUPE=
-		</data>
-		<key>Modules/MCIStorePayment.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		fGUUr9mCNE/7Zb3PkgdRSK9l10M=
-		</data>
-		<key>Modules/MCIStorePayment.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		o30bm7kVVv3K7wIhsfrI1Zjm288=
+		rVuEgM+TE7kqFkj8qhB1fMQGV5E=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		WaK0dpYuBsuPoEN/PcfZ9Jhc3/g=
+		95PsxLvGT+BNPpN1pl8hyqqPkq8=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		N1xG/WDyLJ4Pr0a5jpIa/MOLU4o=
+		RR7866TAZgYI2i00BpJF9XIXWzs=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nnqzvc2oiaeXsgL0LjTMMDHrTOs=
-		</data>
-		<key>Modules/MCIStorePayment.swiftmodule/i386.swiftdoc</key>
-		<data>
-		WaK0dpYuBsuPoEN/PcfZ9Jhc3/g=
-		</data>
-		<key>Modules/MCIStorePayment.swiftmodule/i386.swiftinterface</key>
-		<data>
-		N1xG/WDyLJ4Pr0a5jpIa/MOLU4o=
-		</data>
-		<key>Modules/MCIStorePayment.swiftmodule/i386.swiftmodule</key>
-		<data>
-		nnqzvc2oiaeXsgL0LjTMMDHrTOs=
+		z5QpiDG5iJKGJv1GHHN15AiRBzk=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		MXtSEBpZI2oniweFezGV1ciqr/0=
+		VvVwqRu6OaJe6TmW3ZgMvj/3B68=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		lEMyg/RcXcslbHCR7vrPApisbso=
+		51AA6/3Rbez1ROH/xYpNXsYNVhY=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Z9rCCVEopSH7sQle8I5/V2hyIHc=
-		</data>
-		<key>Modules/MCIStorePayment.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		MXtSEBpZI2oniweFezGV1ciqr/0=
-		</data>
-		<key>Modules/MCIStorePayment.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		lEMyg/RcXcslbHCR7vrPApisbso=
-		</data>
-		<key>Modules/MCIStorePayment.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		Z9rCCVEopSH7sQle8I5/V2hyIHc=
+		n1JRIGKIQf5akpNvVh3/oi30Id0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -327,11 +291,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7JiQmcG75Z99vLC6gBEUE/cGfK4=
+			pEL851tAmrJ6WvHotOH7CWfFLYU=
 			</data>
 			<key>hash2</key>
 			<data>
-			TQnaYA6hAIxV5lCtu4xU3vKQBZerxI6KW0FjbmzJqh4=
+			VIQf2ohEYl0kancIR9RcTjveE0fE87+euQnFnmOlXRg=
 			</data>
 		</dict>
 		<key>DigitalAccountCollectionCell.nib/objects-12.3+.nib</key>
@@ -360,11 +324,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			szc9wwhqQe1OJ4afeq1+JMX39KA=
+			Z9c76V+e36VyV/qwQVeSy0OB38M=
 			</data>
 			<key>hash2</key>
 			<data>
-			WqMbmdTzRRzO6y6mpBZI4qC/+ntOxR2Nl0pxJshn1g0=
+			RecXV6j+saqXuCz7w2uG6k/YGN8VZ9BdLQmH59ejGsI=
 			</data>
 		</dict>
 		<key>Headers/MCIStorePayment.h</key>
@@ -382,198 +346,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			c9L9J2dOo+02cew1tREg4zIOUPE=
+			QuqR+WBaIG9Ct4rhaoynMuRNtpU=
 			</data>
 			<key>hash2</key>
 			<data>
-			wJAfwsOAdMA9y12X86kXjHrz5/Q9+Vm/pD+ghiwZdGw=
+			OCWleUqEvrUo4ya70624frC9wmZsHu1tB7R0f7IpryY=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fGUUr9mCNE/7Zb3PkgdRSK9l10M=
+			Ve4HV/enPwPKhnfpT8Zu/RKDvTo=
 			</data>
 			<key>hash2</key>
 			<data>
-			kHK4IRaof0hYR3LnyuBs+B2gh4kqKYJ1j934DiEZN+w=
+			d7kk4n71lf8iKiexd7RrVLNmvxANxzHo04XOGk7E1ro=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			o30bm7kVVv3K7wIhsfrI1Zjm288=
+			rVuEgM+TE7kqFkj8qhB1fMQGV5E=
 			</data>
 			<key>hash2</key>
 			<data>
-			4eEBA/T+Y/rDOPXQvzd8xz2ZnqxcdVkxXqfFOcB11kQ=
-			</data>
-		</dict>
-		<key>Modules/MCIStorePayment.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			c9L9J2dOo+02cew1tREg4zIOUPE=
-			</data>
-			<key>hash2</key>
-			<data>
-			wJAfwsOAdMA9y12X86kXjHrz5/Q9+Vm/pD+ghiwZdGw=
-			</data>
-		</dict>
-		<key>Modules/MCIStorePayment.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fGUUr9mCNE/7Zb3PkgdRSK9l10M=
-			</data>
-			<key>hash2</key>
-			<data>
-			kHK4IRaof0hYR3LnyuBs+B2gh4kqKYJ1j934DiEZN+w=
-			</data>
-		</dict>
-		<key>Modules/MCIStorePayment.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			o30bm7kVVv3K7wIhsfrI1Zjm288=
-			</data>
-			<key>hash2</key>
-			<data>
-			4eEBA/T+Y/rDOPXQvzd8xz2ZnqxcdVkxXqfFOcB11kQ=
+			/l+Usrn0+0gmeqwk+D12Gt9FKIl4O5/BLA/+I3cMdsc=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WaK0dpYuBsuPoEN/PcfZ9Jhc3/g=
+			95PsxLvGT+BNPpN1pl8hyqqPkq8=
 			</data>
 			<key>hash2</key>
 			<data>
-			vPNqeMUCvuJj/ESq+EOpwmNPCeUG2EKJQqoK1WchDKc=
+			d7DHadngkInpTcVIUIIzLMrm5lWfUJJ/XGJ8K16kx4Q=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N1xG/WDyLJ4Pr0a5jpIa/MOLU4o=
+			RR7866TAZgYI2i00BpJF9XIXWzs=
 			</data>
 			<key>hash2</key>
 			<data>
-			sHoDsX7yXzjw2vFH98dUtLhT1MxJU2QeC/wFYnnyTPs=
+			yjXiABse/InROkYAeECtFzvJRLsUyymuoFaXNzQqvyE=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nnqzvc2oiaeXsgL0LjTMMDHrTOs=
+			z5QpiDG5iJKGJv1GHHN15AiRBzk=
 			</data>
 			<key>hash2</key>
 			<data>
-			zfbAIIzvKZEUDtbzmq2dtJOM1H47oncr4SLI6I6jDs4=
-			</data>
-		</dict>
-		<key>Modules/MCIStorePayment.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WaK0dpYuBsuPoEN/PcfZ9Jhc3/g=
-			</data>
-			<key>hash2</key>
-			<data>
-			vPNqeMUCvuJj/ESq+EOpwmNPCeUG2EKJQqoK1WchDKc=
-			</data>
-		</dict>
-		<key>Modules/MCIStorePayment.swiftmodule/i386.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			N1xG/WDyLJ4Pr0a5jpIa/MOLU4o=
-			</data>
-			<key>hash2</key>
-			<data>
-			sHoDsX7yXzjw2vFH98dUtLhT1MxJU2QeC/wFYnnyTPs=
-			</data>
-		</dict>
-		<key>Modules/MCIStorePayment.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nnqzvc2oiaeXsgL0LjTMMDHrTOs=
-			</data>
-			<key>hash2</key>
-			<data>
-			zfbAIIzvKZEUDtbzmq2dtJOM1H47oncr4SLI6I6jDs4=
+			xsAN8SRl/PyUtBBgMw1fajE5LSzIibv2fppQzOywQvY=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MXtSEBpZI2oniweFezGV1ciqr/0=
+			VvVwqRu6OaJe6TmW3ZgMvj/3B68=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fd3cXxvuXBbp/bHSg3laacGJ7Crw3K9evIlzSPwYybk=
+			3ex+MlWba9EWNOWl/Xvhd9eyKrHieZaeM6aWHlwTOD8=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lEMyg/RcXcslbHCR7vrPApisbso=
+			51AA6/3Rbez1ROH/xYpNXsYNVhY=
 			</data>
 			<key>hash2</key>
 			<data>
-			iwnd0gybU7BuT8Bz7cn0IMVZbX3CM26msODaP30mIus=
+			focLK0IVlH9vr3CL6TCyEmYwA9JTLFxV2cXnJp7E7rU=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z9rCCVEopSH7sQle8I5/V2hyIHc=
+			n1JRIGKIQf5akpNvVh3/oi30Id0=
 			</data>
 			<key>hash2</key>
 			<data>
-			dfC54RB5WrI4Rq4f8RyWQRBpgBKwptpwHJJefW4GJIQ=
-			</data>
-		</dict>
-		<key>Modules/MCIStorePayment.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MXtSEBpZI2oniweFezGV1ciqr/0=
-			</data>
-			<key>hash2</key>
-			<data>
-			Fd3cXxvuXBbp/bHSg3laacGJ7Crw3K9evIlzSPwYybk=
-			</data>
-		</dict>
-		<key>Modules/MCIStorePayment.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lEMyg/RcXcslbHCR7vrPApisbso=
-			</data>
-			<key>hash2</key>
-			<data>
-			iwnd0gybU7BuT8Bz7cn0IMVZbX3CM26msODaP30mIus=
-			</data>
-		</dict>
-		<key>Modules/MCIStorePayment.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Z9rCCVEopSH7sQle8I5/V2hyIHc=
-			</data>
-			<key>hash2</key>
-			<data>
-			dfC54RB5WrI4Rq4f8RyWQRBpgBKwptpwHJJefW4GJIQ=
+			yIO9T7nXEgV5nfg7RlfeBbZ/G1QXPnUFB8ZmXb/ZqMU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
