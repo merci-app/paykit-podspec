@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bv0GB54g4XDsbIuxd2lNhwtpeRo=
+		P+vtm+ytZdrmFCssMzRlKu0WYFk=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rVuEgM+TE7kqFkj8qhB1fMQGV5E=
+		tt54RpBlTGkr0MlG8hKGAorvArk=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		z5QpiDG5iJKGJv1GHHN15AiRBzk=
+		XwGZWMeJp+Cm8x5+x2dIc469YlE=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		n1JRIGKIQf5akpNvVh3/oi30Id0=
+		DtyNvi9rBIEbiGM/9W5PlnVLjCU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -368,11 +368,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rVuEgM+TE7kqFkj8qhB1fMQGV5E=
+			tt54RpBlTGkr0MlG8hKGAorvArk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/l+Usrn0+0gmeqwk+D12Gt9FKIl4O5/BLA/+I3cMdsc=
+			waz8LgIMuqYuLhN0AA8FDb9qN07Al4vK1SZ6+B+96gc=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -401,11 +401,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			z5QpiDG5iJKGJv1GHHN15AiRBzk=
+			XwGZWMeJp+Cm8x5+x2dIc469YlE=
 			</data>
 			<key>hash2</key>
 			<data>
-			xsAN8SRl/PyUtBBgMw1fajE5LSzIibv2fppQzOywQvY=
+			SdLuimw1PJB8GGXBYrZh7y/UmFcaNC8tDw8Tuo6J+AE=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -434,11 +434,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n1JRIGKIQf5akpNvVh3/oi30Id0=
+			DtyNvi9rBIEbiGM/9W5PlnVLjCU=
 			</data>
 			<key>hash2</key>
 			<data>
-			yIO9T7nXEgV5nfg7RlfeBbZ/G1QXPnUFB8ZmXb/ZqMU=
+			U0kO1W6Q1m1Zc0AaPcDOJNACfrKabYe08vBNXvgiFK8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
