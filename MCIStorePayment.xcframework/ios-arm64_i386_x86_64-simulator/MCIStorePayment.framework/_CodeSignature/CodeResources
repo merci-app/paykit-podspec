@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dA8w3MZr193f1Buf2PLXa7cnmt4=
+		SqQaRBwp3Z9D0MvMsNzxetOVV9M=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rOCegkcd+qT8ehUdEuCpBvbHxFE=
+		rnwAbmGmremAqtEeHw/44yrXAJg=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		azhT/18vRpAkDNLKbAdoqCdTLQ8=
+		OkTMeppNi1+U9PmSkc0iS0spBN4=
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3Sf6dfcahokzKAwq3UvsTiDwTQU=
+		6WnXYeSgzWIXt2rNKiXUOqg7yGk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -368,11 +368,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rOCegkcd+qT8ehUdEuCpBvbHxFE=
+			rnwAbmGmremAqtEeHw/44yrXAJg=
 			</data>
 			<key>hash2</key>
 			<data>
-			cVqmqWdxT7ls7gU/QHAikU+XZXxi9Vr3QhGKbqA+rVc=
+			/VEIRXnIyPYGV/aOyRYPT67rSEXlaKc93bSd3l5b8xI=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -401,11 +401,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			azhT/18vRpAkDNLKbAdoqCdTLQ8=
+			OkTMeppNi1+U9PmSkc0iS0spBN4=
 			</data>
 			<key>hash2</key>
 			<data>
-			eDvxLf4hTfFwrd6vpreWgzwnsl8vjPNyuFsSziRNAtE=
+			Ty4HJeyQY43HYLi7rKyE1ju9H9dQJE6iY8tY5vMAFiI=
 			</data>
 		</dict>
 		<key>Modules/MCIStorePayment.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -434,11 +434,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3Sf6dfcahokzKAwq3UvsTiDwTQU=
+			6WnXYeSgzWIXt2rNKiXUOqg7yGk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LDUHnljxKaWR3aQCbwQNSgtvXJjPEIeVc23PoK9qo7o=
+			2TqXxXtjb+Tofc0VB2hECo9gY5zn5CPfcLnM5fyCIyI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
