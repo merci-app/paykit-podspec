@@ -2339,19 +2339,13 @@
           },
           {
             "kind": "Function",
-            "name": "presentEmbed",
-            "printedName": "presentEmbed(_:transition:title:tabImage:completion:)",
+            "name": "embed",
+            "printedName": "embed(transition:title:tabImage:)",
             "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
               {
                 "kind": "TypeNominal",
                 "name": "UIViewController",
                 "printedName": "UIKit.UIViewController",
-                "paramValueOwnership": "InOut",
                 "usr": "c:objc(cs)UIViewController"
               },
               {
@@ -2371,36 +2365,11 @@
                 "name": "UIImage",
                 "printedName": "UIKit.UIImage",
                 "usr": "c:objc(cs)UIImage"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "(() -> ())?",
-                "children": [
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "() -> ()",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      }
-                    ]
-                  }
-                ],
-                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:18MCISDKStorePaymentAAV12presentEmbed_10transition5title8tabImage10completionySo16UIViewControllerCz_So22UIModalTransitionStyleVSSSo7UIImageCyycSgtF",
-            "mangledName": "$s18MCISDKStorePaymentAAV12presentEmbed_10transition5title8tabImage10completionySo16UIViewControllerCz_So22UIModalTransitionStyleVSSSo7UIImageCyycSgtF",
+            "usr": "s:18MCISDKStorePaymentAAV5embed10transition5title8tabImageSo16UIViewControllerCSo22UIModalTransitionStyleV_SSSo7UIImageCtF",
+            "mangledName": "$s18MCISDKStorePaymentAAV5embed10transition5title8tabImageSo16UIViewControllerCSo22UIModalTransitionStyleV_SSSo7UIImageCtF",
             "moduleName": "MCISDKStorePayment",
             "declAttributes": [
               "AccessControl"
