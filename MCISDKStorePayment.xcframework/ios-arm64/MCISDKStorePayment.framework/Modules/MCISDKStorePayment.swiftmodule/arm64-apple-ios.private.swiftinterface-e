@@ -5,7 +5,6 @@
 import Alamofire
 import Foundation
 import Kingfisher
-import MCISDKAuth
 import MCISDKCheckoutCore
 import MCISDKFoundation
 import MCISDKIssuerViewerCore
@@ -30,15 +29,6 @@ import _StringProcessing
   final public var imageQr: UIKit.UIImage?
   @objc deinit
 }
-public enum PayAlertConfig : Swift.String {
-  case pixDisabled
-  case confirmPix
-  public init?(rawValue: Swift.String)
-  public typealias RawValue = Swift.String
-  public var rawValue: Swift.String {
-    get
-  }
-}
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) final public class PayRootVC : MCISDKKit.MCIViewController, MCISDKKit.Identifiable {
   @_Concurrency.MainActor(unsafe) final public var account: MCIAccount?
   @_Concurrency.MainActor(unsafe) final public var action: MCIAccountWalletAction?
@@ -50,47 +40,12 @@ public enum PayAlertConfig : Swift.String {
 public struct MCISDKStorePayment : StorePaymentInjectable {
   public init()
   public func present(_ controller: UIKit.UIViewController, transition: UIKit.UIModalTransitionStyle, completion: (() -> Swift.Void)?)
-  public func presentEmbed(_ controller: inout UIKit.UIViewController, transition: UIKit.UIModalTransitionStyle, title: Swift.String, tabImage: UIKit.UIImage, completion: (() -> Swift.Void)?)
+  public func embed(transition: UIKit.UIModalTransitionStyle, title: Swift.String, tabImage: UIKit.UIImage) -> UIKit.UIViewController
 }
 extension UIKit.UIStoryboard {
   @_Concurrency.MainActor(unsafe) public class var pay: UIKit.UIStoryboard {
     get
   }
-}
-public enum QRCodePaymentType : Swift.String, Swift.Codable {
-  case acquirer
-  case pix
-  case unknown
-  public init?(rawValue: Swift.String)
-  public typealias RawValue = Swift.String
-  public var rawValue: Swift.String {
-    get
-  }
-}
-final public class MCIQRCodePayment : Swift.Codable {
-  final public var amount: Swift.String? {
-    get
-  }
-  final public var createdAt: Foundation.Date? {
-    get
-  }
-  final public var merchantName: Swift.String? {
-    get
-  }
-  final public var transactionId: Swift.String? {
-    get
-  }
-  final public var type: QRCodePaymentType {
-    get
-  }
-  final public var allowedSources: [MCIAccountType]? {
-    get
-  }
-  final public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
-  final public func formattedCreatedAtDate() -> Swift.String?
-  final public func formattedAmount() -> Swift.String?
-  @objc deinit
 }
 public protocol PayAccountCollectionTableCellDelegate : AnyObject {
   func accountCollectionTableCell(_ cell: PayAccountCollectionTableCell, didSelectAccount account: MCIAccount)
@@ -123,9 +78,3 @@ extension PayAccountCollectionTableCell : UIKit.UICollectionViewDelegateFlowLayo
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
-extension PayAlertConfig : Swift.Equatable {}
-extension PayAlertConfig : Swift.Hashable {}
-extension PayAlertConfig : Swift.RawRepresentable {}
-extension QRCodePaymentType : Swift.Equatable {}
-extension QRCodePaymentType : Swift.Hashable {}
-extension QRCodePaymentType : Swift.RawRepresentable {}

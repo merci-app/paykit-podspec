@@ -253,7 +253,6 @@ using UInt = size_t;
 
 #if defined(__OBJC__)
 
-
 @class NSString;
 @class NSCoder;
 
