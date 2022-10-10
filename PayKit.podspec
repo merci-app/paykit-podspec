@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name            = "PayKit"
-  spec.version         = "version/2.0.0-alpha.9"
+  spec.version         = "2.0.0-alpha.9"
   spec.summary         = "PayKit é framework destinado a Merci e seus parceiros."
   spec.swift_versions  = ['5']
 
