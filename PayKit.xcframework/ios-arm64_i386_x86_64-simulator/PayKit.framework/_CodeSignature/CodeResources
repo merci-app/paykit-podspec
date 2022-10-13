@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/PayKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7k386SxBvmOVaLrzLoFA3fvPy/o=
+		BHWq3V+WWGpAbHUHAR9+GuxreeQ=
 		</data>
 		<key>Modules/PayKit.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/PayKit.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7xdCq7UT2C2MVAIr6m3naHxxcF4=
+		NAcFk2BSasOLd3A2YfTKZRUIIi8=
 		</data>
 		<key>Modules/PayKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/PayKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		t/HLYNWsG7ZiEbCMmPHSipv2hPE=
+		UPhC+dpgbokUIrF0+YDdTeQEelQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -122,11 +122,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7k386SxBvmOVaLrzLoFA3fvPy/o=
+			BHWq3V+WWGpAbHUHAR9+GuxreeQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			smstO7orY0Szlz2m4QCHZ5NRaaLw7ntcED4ZlHL6bVM=
+			abAXbnY84H4ZLTzXZPQDJ15lW5fXXxCQQjRAQOdhHug=
 			</data>
 		</dict>
 		<key>Modules/PayKit.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -155,11 +155,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7xdCq7UT2C2MVAIr6m3naHxxcF4=
+			NAcFk2BSasOLd3A2YfTKZRUIIi8=
 			</data>
 			<key>hash2</key>
 			<data>
-			WT6fgJvux5krcSqBB9G3RvFza6opgnH5SFH5qgST45Q=
+			tlpxSbrMMvT8cIxptVknlKxatXd3yM6ZpRilVAtnFTQ=
 			</data>
 		</dict>
 		<key>Modules/PayKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -188,11 +188,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t/HLYNWsG7ZiEbCMmPHSipv2hPE=
+			UPhC+dpgbokUIrF0+YDdTeQEelQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			NWMqAFG0wp1AnUtj3HW/iO/7XFEz/vbXhNkwM3V9j7c=
+			nYv19Q5I4DLaLlEW7fOtHThhWTp4V26EBWLsVFunpMs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
