@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/PayKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		qVPEJdjo1eYQEC47BUvbsZJWYlw=
+		53dO8bCJ4G7zq0Gj7C3qGlujhzw=
 		</data>
 		<key>Modules/PayKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		go6oOFBUIoHofi0+ALxfNDFStdE=
+		/FTr283d3/mDYclN18fYEltdw/s=
 		</data>
 		<key>Modules/PayKit.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/PayKit.swiftmodule/armv7-apple-ios.swiftinterface</key>
 		<data>
-		t+wslXj2PdZXUsKlywDGkr2R1GQ=
+		AwuCtSS9t+kkYZXjKVpPchfVRqA=
 		</data>
 		<key>Modules/PayKit.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		2Vhw9HbGfRX8TorhXBYHYWoBSmg=
+		fSU8y51nNVIlxg/iK/1h8r+LVM4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,22 +99,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qVPEJdjo1eYQEC47BUvbsZJWYlw=
+			53dO8bCJ4G7zq0Gj7C3qGlujhzw=
 			</data>
 			<key>hash2</key>
 			<data>
-			KRzY6Ja0MdXRprwABbJ0QcApr5VhVjMYiK3tLNBgsKI=
+			PWZyJFUceLILRqL5lbknMHcPjy/YxNsicDuw53z+Mf4=
 			</data>
 		</dict>
 		<key>Modules/PayKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			go6oOFBUIoHofi0+ALxfNDFStdE=
+			/FTr283d3/mDYclN18fYEltdw/s=
 			</data>
 			<key>hash2</key>
 			<data>
-			K9qYItZUXg7y+5tIzhmAqKeUVLuFFfMvgdnf1FuKfgo=
+			WKeH17T4SGKPjQl62Jr7AFEwyaCJNWvm0F3CBrg+Ufo=
 			</data>
 		</dict>
 		<key>Modules/PayKit.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -132,22 +132,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t+wslXj2PdZXUsKlywDGkr2R1GQ=
+			AwuCtSS9t+kkYZXjKVpPchfVRqA=
 			</data>
 			<key>hash2</key>
 			<data>
-			iyHSfIO6LgD99p695I3TBGK4oPNLt2ROhoup9pIZbbc=
+			pY6sHUura08kcDIyJmE/OtqnQC65p63kcaFWarux95U=
 			</data>
 		</dict>
 		<key>Modules/PayKit.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2Vhw9HbGfRX8TorhXBYHYWoBSmg=
+			fSU8y51nNVIlxg/iK/1h8r+LVM4=
 			</data>
 			<key>hash2</key>
 			<data>
-			dVhDuvUpI7p91pS1fYCmw0gDas6tjMES3eSlfojnPZ8=
+			JSmngwUvdYHM9gx1KjUmIj8wzJl924HGxmV2IXWd7Fc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
