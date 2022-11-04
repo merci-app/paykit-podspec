@@ -1,0 +1,11 @@
+framework module PayKit {
+  umbrella header "PayKit.h"
+
+  export *
+  module * { export * }
+}
+
+module PayKit.Swift {
+    header "PayKit-Swift.h"
+    requires objc
+}
