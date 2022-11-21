@@ -1,0 +1,129 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
+// swift-module-flags: -target x86_64-apple-ios10.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MCIStorePayment
+import AVFoundation
+import Alamofire
+import Foundation
+import Kingfisher
+import MCIAuth
+import MCICheckoutCore
+import MCIFoundation
+import MCIIssuerViewerCore
+import MCIKit
+import MCILogger
+@_exported import MCIStorePayment
+import Swift
+import UIKit
+import _Concurrency
+@_hasMissingDesignatedInitializers final public class PayConfig {
+  public static let shared: PayConfig
+  final public var isSDK: Swift.Bool
+  final public var shouldShowOnboarding: Swift.Bool
+  final public var payTextButton: Swift.String?
+  final public var imageBanner: UIKit.UIImage?
+  final public var imageOnboardingFirst: UIKit.UIImage?
+  final public var imageOnboardingSecond: UIKit.UIImage?
+  final public var imageOnboardingThird: UIKit.UIImage?
+  final public var imageStoresEmpty: UIKit.UIImage?
+  final public var imageAvailableAccounts: UIKit.UIImage?
+  final public var imageQr: UIKit.UIImage?
+  @objc deinit
+}
+public enum PayAlertConfig : Swift.String {
+  case pixDisabled
+  case confirmPix
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) final public class PayRootVC : MCIViewController, Identifiable {
+  @_Concurrency.MainActor(unsafe) final public var account: MCIAccount?
+  @_Concurrency.MainActor(unsafe) final public var action: MCIAccountWalletAction?
+  @_Concurrency.MainActor(unsafe) @objc override final public func viewDidLoad()
+  @objc deinit
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+public struct MCIStorePayment : StorePaymentInjectable {
+  public init()
+  public func present(_ controller: UIKit.UIViewController, transition: UIKit.UIModalTransitionStyle, completion: (() -> Swift.Void)?)
+}
+extension UIKit.UIStoryboard {
+  @_Concurrency.MainActor(unsafe) public class var pay: UIKit.UIStoryboard {
+    get
+  }
+}
+public enum QRCodePaymentType : Swift.String, Swift.Codable {
+  case acquirer
+  case pix
+  case unknown
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+final public class MCIQRCodePayment : Swift.Codable {
+  final public var amount: Swift.String? {
+    get
+  }
+  final public var createdAt: Foundation.Date? {
+    get
+  }
+  final public var merchantName: Swift.String? {
+    get
+  }
+  final public var transactionId: Swift.String? {
+    get
+  }
+  final public var type: QRCodePaymentType {
+    get
+  }
+  final public var allowedSources: [MCIAccountType]? {
+    get
+  }
+  final public func encode(to encoder: Swift.Encoder) throws
+  public init(from decoder: Swift.Decoder) throws
+  final public func formattedCreatedAtDate() -> Swift.String?
+  final public func formattedAmount() -> Swift.String?
+  @objc deinit
+}
+public protocol PayAccountCollectionTableCellDelegate : AnyObject {
+  func accountCollectionTableCell(_ cell: PayAccountCollectionTableCell, didSelectAccount account: MCIAccount)
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) final public class PayAccountCollectionTableCell : UIKit.UITableViewCell, Identifiable, NibReusable {
+  @_Concurrency.MainActor(unsafe) weak final public var delegate: PayAccountCollectionTableCellDelegate?
+  @objc override final public func awakeFromNib()
+  @_Concurrency.MainActor(unsafe) @objc override final public func systemLayoutSizeFitting(_ targetSize: CoreGraphics.CGSize, withHorizontalFittingPriority horizontalFittingPriority: UIKit.UILayoutPriority, verticalFittingPriority: UIKit.UILayoutPriority) -> CoreGraphics.CGSize
+  @_Concurrency.MainActor(unsafe) final public func configure(with accounts: [MCIAccount]?)
+  @objc deinit
+  @available(iOS 3.0, *)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+extension PayAccountCollectionTableCell : UIKit.UICollectionViewDataSource {
+  @_Concurrency.MainActor(unsafe) @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, numberOfItemsInSection section: Swift.Int) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, cellForItemAt indexPath: Foundation.IndexPath) -> UIKit.UICollectionViewCell
+}
+extension PayAccountCollectionTableCell : UIKit.UICollectionViewDelegateFlowLayout {
+  @_Concurrency.MainActor(unsafe) @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, didSelectItemAt indexPath: Foundation.IndexPath)
+  @_Concurrency.MainActor(unsafe) @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, sizeForItemAt indexPath: Foundation.IndexPath) -> CoreGraphics.CGSize
+  @_Concurrency.MainActor(unsafe) @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, insetForSectionAt section: Swift.Int) -> UIKit.UIEdgeInsets
+  @_Concurrency.MainActor(unsafe) @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, minimumLineSpacingForSectionAt section: Swift.Int) -> CoreGraphics.CGFloat
+  @_Concurrency.MainActor(unsafe) @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, minimumInteritemSpacingForSectionAt section: Swift.Int) -> CoreGraphics.CGFloat
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) final public class PayAccountBannerTableCell : UIKit.UITableViewCell, Identifiable, NibReusable {
+  @_Concurrency.MainActor(unsafe) final public func configure(with image: UIKit.UIImage?)
+  @objc deinit
+  @available(iOS 3.0, *)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+extension PayAlertConfig : Swift.Equatable {}
+extension PayAlertConfig : Swift.Hashable {}
+extension PayAlertConfig : Swift.RawRepresentable {}
+extension QRCodePaymentType : Swift.Equatable {}
+extension QRCodePaymentType : Swift.Hashable {}
+extension QRCodePaymentType : Swift.RawRepresentable {}
