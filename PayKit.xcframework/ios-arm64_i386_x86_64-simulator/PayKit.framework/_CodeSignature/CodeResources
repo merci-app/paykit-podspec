@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		peDBdA3gV6jMqikVQhMaWXz94h4=
+		FLz/4QnvctBn5lUI7obxdE5SyjI=
 		</data>
 		<key>Headers/PayKit-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SeArBaJibXmC7Exga5eBj3F7pmA=
+		YqDAuNI+fsL/XgJUYpL/NnrjCXk=
 		</data>
 		<key>Modules/PayKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/PayKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		a55MAj1oMdeMvndV0SxKUY/rssI=
+		IgiLyAQ+keBUE06mp7D4yoOtkdM=
 		</data>
 		<key>Modules/PayKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rlik+XhIa5N6ImuVJHHrsLSSo8U=
+		3aefcsXPal4q6R9T3sddKRpLL8E=
 		</data>
 		<key>Modules/PayKit.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/PayKit.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		V6LA3r/1aGh02zTwx6n5MXzzfDY=
+		J0y1FMwCwMqYV9Mom9Ou3/Qqqm4=
 		</data>
 		<key>Modules/PayKit.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		o1QTDwAKgcJyskVg6BD5mUxczic=
+		ZAMlpMTw9quO11X0Q1yEtSL338s=
 		</data>
 		<key>Modules/PayKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/PayKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		PNFtYWCZmCyy0pnnGIF8AT3hFEQ=
+		slASIIdVIaUWvPrPOiqRUgEi0S8=
 		</data>
 		<key>Modules/PayKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		s4qnWhA0pd0Y5cwnZt6CFQ+3SE8=
+		XZ2aarBQ+CILHpANCZdX6AwlLfg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,11 +67,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			peDBdA3gV6jMqikVQhMaWXz94h4=
+			FLz/4QnvctBn5lUI7obxdE5SyjI=
 			</data>
 			<key>hash2</key>
 			<data>
-			oyesLbcI5cMgJ81rouzSIHj4BUxHH20qe+1DNxt/vvk=
+			I04rNJ8ZgiKyZ1Hqv1+ukV+vtZMfDyK1tM3h7pTHzOw=
 			</data>
 		</dict>
 		<key>Headers/PayKit-Swift.h</key>
@@ -111,22 +111,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			a55MAj1oMdeMvndV0SxKUY/rssI=
+			IgiLyAQ+keBUE06mp7D4yoOtkdM=
 			</data>
 			<key>hash2</key>
 			<data>
-			beONqP9q+O6Ptzm8YFf/+dK/9pR6tYPS5oiOfrQ8MZI=
+			qcL23a+bxBH6ZBy58A2ZiP6hMS8c0OZPA2wFq0b05p8=
 			</data>
 		</dict>
 		<key>Modules/PayKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rlik+XhIa5N6ImuVJHHrsLSSo8U=
+			3aefcsXPal4q6R9T3sddKRpLL8E=
 			</data>
 			<key>hash2</key>
 			<data>
-			z+yw9hkd5Jk5yUt9WLtuqStWGCcqf9q7iOAeuebNHFQ=
+			a48V8FOqODff7cleTL9vhU5db2Ps8KvxNm/KpAt7638=
 			</data>
 		</dict>
 		<key>Modules/PayKit.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -144,22 +144,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V6LA3r/1aGh02zTwx6n5MXzzfDY=
+			J0y1FMwCwMqYV9Mom9Ou3/Qqqm4=
 			</data>
 			<key>hash2</key>
 			<data>
-			1dQpNLlx+HbIAeS3t4E8gv5VVmoG5fDNzf05PeB50w8=
+			w5/rzX4H9zDcgHVSX46XZNdjo2t9o7A0HO/CchX5xOs=
 			</data>
 		</dict>
 		<key>Modules/PayKit.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			o1QTDwAKgcJyskVg6BD5mUxczic=
+			ZAMlpMTw9quO11X0Q1yEtSL338s=
 			</data>
 			<key>hash2</key>
 			<data>
-			FUfqlCipL7ibCz94/nJDXTayPYz9mMjExqEEYypLn+A=
+			Ll+7Ij5wK1K4A+/52943XNsrJoUeUs67QsYwDyKqsZA=
 			</data>
 		</dict>
 		<key>Modules/PayKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -177,22 +177,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PNFtYWCZmCyy0pnnGIF8AT3hFEQ=
+			slASIIdVIaUWvPrPOiqRUgEi0S8=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZQe5Yne/wG9wJos2dhUgQ2qlRrt+X5lbjMBd/+rwoRw=
+			b3b8pPB7ZcYixu14D9dyJ0Sc89k91NYX3jRrdcCbdAg=
 			</data>
 		</dict>
 		<key>Modules/PayKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			s4qnWhA0pd0Y5cwnZt6CFQ+3SE8=
+			XZ2aarBQ+CILHpANCZdX6AwlLfg=
 			</data>
 			<key>hash2</key>
 			<data>
-			gxzk6BH7ekqnaXh21Oxf8gLVJZkB+/rRLgw0S3xtKuc=
+			gXU4yP6vZChim6Cga+XuWomdEn8Gqqpy7bs88i3XkSY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
