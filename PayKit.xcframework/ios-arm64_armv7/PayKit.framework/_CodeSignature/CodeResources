@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		FLz/4QnvctBn5lUI7obxdE5SyjI=
+		peDBdA3gV6jMqikVQhMaWXz94h4=
 		</data>
 		<key>Headers/PayKit-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		1mzmIjlOpjkOa0j2/zaZhrJZny4=
+		qPVgSF/Svy/d5c+XGmR5wIRYjuc=
 		</data>
 		<key>Modules/PayKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/PayKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		BCtsk65Gmicjr1zyKt54HrkAbxU=
+		7xv1REtd9Xfmd7RRW8H9Tw+F2D8=
 		</data>
 		<key>Modules/PayKit.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/PayKit.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		J7lCeVZnLLswIRbaCioVhHRB4Po=
+		iXMbRXekgE9Tz8GsXX6NAFMu/b8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,11 +55,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FLz/4QnvctBn5lUI7obxdE5SyjI=
+			peDBdA3gV6jMqikVQhMaWXz94h4=
 			</data>
 			<key>hash2</key>
 			<data>
-			I04rNJ8ZgiKyZ1Hqv1+ukV+vtZMfDyK1tM3h7pTHzOw=
+			oyesLbcI5cMgJ81rouzSIHj4BUxHH20qe+1DNxt/vvk=
 			</data>
 		</dict>
 		<key>Headers/PayKit-Swift.h</key>
@@ -110,11 +110,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BCtsk65Gmicjr1zyKt54HrkAbxU=
+			7xv1REtd9Xfmd7RRW8H9Tw+F2D8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y+32/ahC/du9UIOymPJnObAAQ7aDbu+6z82bs85Uxk4=
+			+61ie1evPFTSXgJBskmEijtWKA4XkUzC5CD2saUFAe4=
 			</data>
 		</dict>
 		<key>Modules/PayKit.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -143,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			J7lCeVZnLLswIRbaCioVhHRB4Po=
+			iXMbRXekgE9Tz8GsXX6NAFMu/b8=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZsSOCqVWJ2YDbIhlby6EGYwoxO8UeEB75ardskUIhz4=
+			vBb4olIsItaB939bVb7A2OKjcEBSmJYgIebm0ayOz7A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
